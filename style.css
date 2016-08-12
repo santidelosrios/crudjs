@@ -1,0 +1,11 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans|Montserrat);
+*{
+    font-family: 'Open Sans', sans-serif !important;    
+    color: #FFF;
+}
+body{
+    background-color: #90C3D4;
+}
+#tblList thead{
+    color: #FFF;
+}
